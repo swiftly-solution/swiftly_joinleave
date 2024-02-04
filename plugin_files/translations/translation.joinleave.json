@@ -2,11 +2,43 @@
     "join.message": {
         "en": "{lime}[Swiftly] %s {default}has {lime}connected {default}on the server!",
         "ro": "{lime}[Swiftly] %s {default}s-a {lime}conectat {default}pe server!",
-        "ua": "{lime}[Swiftly] %s {default}підключився {lime}до сервера!"
+        "ua": "{lime}[Swiftly] %s {default}підключився {lime}до сервера!",
+        "fr": "{lime}[Swiftly] %s {default}s'est {lime}connecté {default}au serveur!",
+        "es": "{lime}[Swiftly] %s {default}se ha {lime}conectado {default}al servidor!",
+        "de": "{lime}[Swiftly] %s {default}hat sich {lime}auf dem Server {default}angemeldet!",
+        "it": "{lime}[Swiftly] %s {default}si è {lime}connesso {default}al server!",
+        "pt": "{lime}[Swiftly] %s {default}conectou-se {lime}ao servidor {default}!",
+        "nl": "{lime}[Swiftly] %s {default}heeft {lime}verbinding gemaakt {default}met de server!",
+        "ru": "{lime}[Swiftly] %s {default}подключился {lime}к серверу {default}!",
+        "zh": "{lime}[Swiftly] %s {default}已 {lime}连接 {default}到服务器！",
+        "ja": "{lime}[Swiftly] %s {default}が {lime}サーバーに接続しました！",
+        "ko": "{lime}[Swiftly] %s {default}가 {lime}서버에 연결되었습니다!",
+        "ar": "{lime}[Swiftly] %s {default}قد {lime}اتصل {default}بالخادم!",
+        "tr": "{lime}[Swiftly] %s {default}sunucuya {lime}bağlandı {default}!",
+        "sv": "{lime}[Swiftly] %s {default}har {lime}anslutit {default}till servern!",
+        "fi": "{lime}[Swiftly] %s {default}on {lime}liittynyt {default}palvelimelle!",
+        "pl": "{lime}[Swiftly] %s {default}połączył się {lime}z serwerem {default}!",
+        "vi": "{lime}[Swiftly] %s {default}đã {lime}kết nối {default}với máy chủ!"
     },
     "leave.message": {
         "en": "{darkred}[Swiftly] %s {default}has {darkred}disconnected {default}from the server!",
         "ro": "{darkred}[Swiftly] %s {default}s-a {darkred}deconectat {default}de pe server!",
-        "ua": "{darkred}[Swiftly] %s {default}відключився {darkred}від сервера!"
+        "ua": "{darkred}[Swiftly] %s {default}відключився {darkred}від сервера!",
+        "fr": "{darkred}[Swiftly] %s {default}s'est {darkred}déconnecté {default}du serveur!",
+        "es": "{darkred}[Swiftly] %s {default}se ha {darkred}desconectado {default}del servidor!",
+        "de": "{darkred}[Swiftly] %s {default}hat die Verbindung {darkred}vom Server {default}getrennt!",
+        "it": "{darkred}[Swiftly] %s {default}si è {darkred}disconnesso {default}dal server!",
+        "pt": "{darkred}[Swiftly] %s {default}desconectou-se {darkred}do servidor {default}!",
+        "nl": "{darkred}[Swiftly] %s {default}heeft {darkred}de verbinding verbroken {default}met de server!",
+        "ru": "{darkred}[Swiftly] %s {default}отключился {darkred}от сервера {default}!",
+        "zh": "{darkred}[Swiftly] %s {default}已 {darkred}断开 {default}与服务器的连接！",
+        "ja": "{darkred}[Swiftly] %s {default}が {darkred}サーバーから切断されました！",
+        "ko": "{darkred}[Swiftly] %s {default}가 {darkred}서버에서 연결이 끊어졌습니다!",
+        "ar": "{darkred}[Swiftly] %s {default}قد {darkred}قطع الاتصال {default}من الخادم!",
+        "tr": "{darkred}[Swiftly] %s {default}sunucudan {darkred}bağlantı koparıldı {default}!",
+        "sv": "{darkred}[Swiftly] %s {default}har {darkred}kopplat från {default}servern!",
+        "fi": "{darkred}[Swiftly] %s {default}on {darkred}katkaissut yhteyden {default}palvelimelta!",
+        "pl": "{darkred}[Swiftly] %s {default}rozłączył się {darkred}z serwerem {default}!",
+        "vi": "{darkred}[Swiftly] %s {default}đã {darkred}ngắt kết nối {default}từ máy chủ!"
     }
 }
