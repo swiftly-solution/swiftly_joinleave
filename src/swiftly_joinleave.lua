@@ -3,7 +3,7 @@ events:on("OnClientConnect", function(playerid)
     if not player then return false end
 
     logger:Write(LogType.Common, FetchTranslation("joinleave.join.logmessage"))
-    playermanager:SendMsg(MessageType.Chat, (string.format(FetchTranslation("joinleave.join.chatmessage"), player:GetName())))
+    playermanager:SendMsg(MessageType.Chat, (string.format(FetchTranslation("joinleave.join.message"), player:GetName())))
     return true
 end)
 
@@ -12,7 +12,7 @@ events:on("OnClientDisconnect", function(playerid)
     if not player then return end
 
     logger:Write(LogType.Common, FetchTranslation("joinleave.leave.logmessage"))
-    playermanager:SendMsg(MessageType.Chat, (string.format(FetchTranslation("joinleave.leave.chatmessage"), player:GetName())))
+    playermanager:SendMsg(MessageType.Chat, (string.format(FetchTranslation("joinleave.leave.message"), player:GetName())))
 end)
 
 events:on("OnPluginStart", function()
